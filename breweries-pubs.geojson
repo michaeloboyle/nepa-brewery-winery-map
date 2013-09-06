@@ -152,6 +152,25 @@
         "Type": "Brewery/Pub",
         "marker-color": "#f00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.954359,
+          40.365942
+        ]
+      },
+      "properties": {
+        "Name": "Triumph Brewing Company",
+        "City": "New Hope",
+        "URL": "http://www.triumphbrewing.com/new-hope/",
+        "Facebook": "http://www.facebook.com/TriumphNewHope",
+        "Twitter": "http://twitter.com/TriumphNewHope",
+        "Type": "Pub",
+        "marker-color": "#00f"
+      }
     }
  ]
 }
