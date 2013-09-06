@@ -57,6 +57,44 @@
         "Type": "Brewery",
         "marker-color": "#f00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.382125,
+          40.622275
+        ]
+      },
+      "properties": {
+        "Name": "Bethlehem Brew Works",
+        "City": "Bethlehem",
+        "URL": "http://www.thebrewworks.com/bethlehem-brew-works/",
+        "Facebook": "https://www.facebook.com/Bethlehem.Brew.Works",
+        "Twitter": "https://twitter.com/thebrewworks",
+        "Type": "Pub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.474090,
+          40.601448
+        ]
+      },
+      "properties": {
+        "Name": "Allentown Brew Works",
+        "City": "Allentown",
+        "URL": "http://www.thebrewworks.com/allentown-brewworks/",
+        "Facebook": "https://www.facebook.com/Allentown.Brew.Works",
+        "Twitter": "https://twitter.com/thebrewworks",
+        "Type": "Pub",
+        "marker-color": "#00f"
+      }
     }
  ]
 }
