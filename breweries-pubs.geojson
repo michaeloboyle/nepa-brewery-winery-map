@@ -190,7 +190,7 @@
         "Type": "Brewery",
         "marker-color": "#f00"
       }
-      ,
+    },
     {
       "type": "Feature",
       "geometry": {
@@ -208,6 +208,25 @@
         "Twitter": "https://twitter.com/PoconoBrewingCo",
         "Type": "Pub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.279522,
+          40.220289
+        ]
+      },
+      "properties": {
+        "Name": "Prism Brewing Company",
+        "City": "North Wales",
+        "URL": "http://prismbeer.com/",
+        "Facebook": "https://www.facebook.com/prismbeer",
+        "Twitter": "https://twitter.com/prismbeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     }
  ]
