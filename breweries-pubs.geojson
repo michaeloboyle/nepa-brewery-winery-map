@@ -38,6 +38,25 @@
         "Type": "Brewery",
         "marker-color": "#f00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.225856,
+          40.673093
+        ]
+      },
+      "properties": {
+        "Name": "Weyerbacher",
+        "City": "Easton",
+        "URL": "http://weyerbacher.com",
+        "Facebook": "https://www.facebook.com/WeyerbacherBrewing",
+        "Twitter": "https://twitter.com/weyerbacher",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
     }
  ]
 }
