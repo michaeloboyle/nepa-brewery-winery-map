@@ -171,6 +171,25 @@
         "Type": "Pub",
         "marker-color": "#00f"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.197835,
+          40.682929
+        ]
+      },
+      "properties": {
+        "Name": "D.G. Yuengling & Son Inc.",
+        "City": "Pottstown",
+        "URL": "http://www.yuengling.com/",
+        "Facebook": "https://www.facebook.com/Yuengling",
+        "Twitter": "http://twitter.com/Yuengling_Beer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
     }
  ]
 }
