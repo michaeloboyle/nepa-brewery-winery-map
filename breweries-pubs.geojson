@@ -190,6 +190,25 @@
         "Type": "Brewery",
         "marker-color": "#f00"
       }
+      ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.320814,
+          41.067906
+        ]
+      },
+      "properties": {
+        "Name": "Pocono Brewing Company",
+        "City": "Swiftwater",
+        "URL": "http://www.poconobrewingcompany.com/",
+        "Facebook": "https://www.facebook.com/pages/Pocono-Brewing-Company/48769310765",
+        "Twitter": "https://twitter.com/PoconoBrewingCo",
+        "Type": "Pub",
+        "marker-color": "#00f"
+      }
     }
  ]
 }
