@@ -21,6 +21,6 @@ Below are maps of breweries, pubs and wineries from the northern border of Penns
 
 Project by Colin Devroe, [@cdevroe](http://twitter.com/cdevroe)
 
-Contributors: Jeff Johns [@phpfunk](http://twitter.com/phpfunk)
+Contributors: Jeff Johns, [@phpfunk](http://twitter.com/phpfunk)
 
 Inspired by [Dave Shea's Canadian Craft Brew maps](https://github.com/mezzoblue/canadian-craft-breweries).
