@@ -114,6 +114,25 @@
         "Type": "Brewery",
         "marker-color": "#f00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.330440,
+          41.053653
+        ]
+      },
+      "properties": {
+        "Name": "Barley Creek Brewing Company",
+        "City": "Tannersville",
+        "URL": "http://www.barleycreek.com/",
+        "Facebook": "http://www.facebook.com/pages/Tannersville-PA/Barley-Creek-Brewing-Company/",
+        "Twitter": "https://twitter.com/BarleyCreekBrew",
+        "Type": "Brewery/Pub",
+        "marker-color": "#f00"
+      }
     }
  ]
 }
