@@ -19,6 +19,25 @@
         "Type": "Pub",
         "marker-color": "#00f"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.694174,
+          40.005921
+        ]
+      },
+      "properties": {
+        "Name": "Victory Brewing Company",
+        "City": "Downingtown",
+        "URL": "http://www.victorybeer.com",
+        "Facebook": "https://www.facebook.com/victorybeer",
+        "Twitter": "https://twitter.com/VictoryBeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
     }
  ]
 }
