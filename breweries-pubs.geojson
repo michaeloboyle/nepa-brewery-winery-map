@@ -133,6 +133,25 @@
         "Type": "Brewery/Pub",
         "marker-color": "#f00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.668637,
+          40.265218
+        ]
+      },
+      "properties": {
+        "Name": "Sly Fox Brewing Company",
+        "City": "Pottstown",
+        "URL": "http://www.slyfoxbeer.com/",
+        "Facebook": "http://www.facebook.com/pages/SLY-FOX-BEER/56565676428",
+        "Twitter": "http://www.twitter.com/slyfoxbeer",
+        "Type": "Brewery/Pub",
+        "marker-color": "#f00"
+      }
     }
  ]
 }
