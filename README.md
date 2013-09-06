@@ -5,7 +5,6 @@ Below are maps of breweries, pubs and wineries from the northern border of Penns
 
 * [Breweries and Pubs](https://github.com/cdevroe/nepa-brewery-winery-map/blob/master/breweries-pubs.geojson)
 * [Wineries](https://github.com/cdevroe/nepa-brewery-winery-map/blob/master/wineries.geojson)
-* [Combined map of Breweries, Pubs, Wineries](https://github.com/cdevroe/nepa-brewery-winery-map/blob/master/combined.geojson)
 
 ### Map Marker Colors
 

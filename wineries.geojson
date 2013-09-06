@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.5695241,
+          -75.6321327
+        ]
+      },
+      "properties": {
+        "Name": "Maiolatesi Wine Cellars",
+        "City": "Scott, PA",
+        "URL": "http://salthewineguy.com/",
+        "Facebook": "https://www.facebook.com/MaiolatesiWines",
+        "Twitter": "https://twitter.com/MaiolatesiWines",
+        "Type": "Winery",
+        "marker-color": "#252fa9"
+      }
+    },
+ ]
+}
