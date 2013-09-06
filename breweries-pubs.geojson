@@ -95,6 +95,35 @@
         "Type": "Pub",
         "marker-color": "#00f"
       }
+    },
+      "properties": {
+        "Name": "Bethlehem Brew Works",
+        "City": "Bethlehem",
+        "URL": "http://www.thebrewworks.com/bethlehem-brew-works/",
+        "Facebook": "https://www.facebook.com/Bethlehem.Brew.Works",
+        "Twitter": "https://twitter.com/thebrewworks",
+        "Type": "Pub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.628446,
+          40.575804
+        ]
+      },
+      "properties": {
+        "Name": "Samuel Adams Pennsylvania Brewery",
+        "City": "Breinigsville",
+        "URL": "http://www.samueladams.com",
+        "Facebook": "https://www.facebook.com/SamuelAdams",
+        "Twitter": "https://twitter.com/SamuelAdamsBeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
     }
  ]
 }
