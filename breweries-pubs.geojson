@@ -96,16 +96,6 @@
         "marker-color": "#00f"
       }
     },
-      "properties": {
-        "Name": "Bethlehem Brew Works",
-        "City": "Bethlehem",
-        "URL": "http://www.thebrewworks.com/bethlehem-brew-works/",
-        "Facebook": "https://www.facebook.com/Bethlehem.Brew.Works",
-        "Twitter": "https://twitter.com/thebrewworks",
-        "Type": "Pub",
-        "marker-color": "#00f"
-      }
-    },
     {
       "type": "Feature",
       "geometry": {
