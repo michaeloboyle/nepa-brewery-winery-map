@@ -20,5 +20,100 @@
         "marker-color": "#252fa9"
       }
     }
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.339845,
+          41.882309
+        ]
+      },
+      "properties": {
+        "Name": "Antler Ridge Winery",
+        "City": "Ulster, PA",
+        "URL": "http://www.antlerridgewinery.com/",
+        "Facebook": "https://www.facebook.com/pages/Antler-Ridge-Winery/302660357550",
+        "Twitter": "https://twitter.com/AntlerRidgeWine",
+        "Type": "Winery",
+        "marker-color": "#252fa9"
+      }
+    }
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.346107,
+          41.591098
+        ]
+      },
+      "properties": {
+        "Name": "Antler Ridge Winery",
+        "City": "Waymart, PA",
+        "URL": "http://www.antlerridgewinery.com/",
+        "Facebook": "https://www.facebook.com/pages/Antler-Ridge-Winery/302660357550",
+        "Twitter": "https://twitter.com/AntlerRidgeWine",
+        "Type": "Winery",
+        "marker-color": "#252fa9"
+      }
+    }
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.181044,
+          41.45819
+        ]
+      },
+      "properties": {
+        "Name": "Antler Ridge Winery",
+        "City": "Hawley, PA",
+        "URL": "http://www.antlerridgewinery.com/",
+        "Facebook": "https://www.facebook.com/pages/Antler-Ridge-Winery/302660357550",
+        "Twitter": "https://twitter.com/AntlerRidgeWine",
+        "Type": "Winery",
+        "marker-color": "#252fa9"
+      }
+    }
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.667422,
+          40.505952
+        ]
+      },
+      "properties": {
+        "Name": "Antler Ridge Winery",
+        "City": "Mertztown, PA",
+        "URL": "http://www.antlerridgewinery.com/",
+        "Facebook": "https://www.facebook.com/pages/Antler-Ridge-Winery/302660357550",
+        "Twitter": "https://twitter.com/AntlerRidgeWine",
+        "Type": "Winery",
+        "marker-color": "#252fa9"
+      }
+    }
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6271884,
+          40.3604599
+        ]
+      },
+      "properties": {
+        "Name": "Antler Ridge Winery",
+        "City": "Bechtelsville, PA",
+        "URL": "http://www.antlerridgewinery.com/",
+        "Facebook": "https://www.facebook.com/pages/Antler-Ridge-Winery/302660357550",
+        "Twitter": "https://twitter.com/AntlerRidgeWine",
+        "Type": "Winery",
+        "marker-color": "#252fa9"
+      }
+    }
  ]
 }
