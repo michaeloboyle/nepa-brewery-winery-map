@@ -13,7 +13,45 @@
       "properties": {
         "Name": "Maiolatesi Wine Cellars",
         "City": "Scott, PA",
-        "URL": "http://salthewineguy.com/",
+        "URL": "http://www.maiolatesiwinecellars.com/",
+        "Facebook": "https://www.facebook.com/MaiolatesiWines",
+        "Twitter": "https://twitter.com/MaiolatesiWines",
+        "Type": "Winery",
+        "marker-color": "#252fa9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.54006,
+          41.54308
+        ]
+      },
+      "properties": {
+        "Name": "Maiolatesi Wine Cellars",
+        "City": "Mayfield, PA",
+        "URL": "http://www.maiolatesiwinecellars.com/",
+        "Facebook": "https://www.facebook.com/MaiolatesiWines",
+        "Twitter": "https://twitter.com/MaiolatesiWines",
+        "Type": "Winery",
+        "marker-color": "#252fa9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.218181,
+          41.551405
+        ]
+      },
+      "properties": {
+        "Name": "Maiolatesi Wine Cellars",
+        "City": "Honesdale, PA",
+        "URL": "http://www.maiolatesiwinecellars.com/",
         "Facebook": "https://www.facebook.com/MaiolatesiWines",
         "Twitter": "https://twitter.com/MaiolatesiWines",
         "Type": "Winery",
