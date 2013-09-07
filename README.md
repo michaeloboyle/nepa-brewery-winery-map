@@ -12,7 +12,7 @@ Below are maps of breweries, pubs and wineries from the northern border of Penns
   Brewery = Red, #f00
   Pub = Blue, #00f
   Pub Chain = Green, #00bb00
-  Nanobrewery = Orange, #ffaa00
+  Microbrewery = Orange, #ffaa00
   Contract / Gypsy Brewers = Pink, #dd77ff 
   Winery = Purple, #252fa9
 ```

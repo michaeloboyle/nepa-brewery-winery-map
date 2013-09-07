@@ -12,12 +12,30 @@
       },
       "properties": {
         "Name": "Backyard Ale House",
-        "City": "Scranton",
+        "City": "Scranton, PA",
         "URL": "http://backyardalehouse.com/",
         "Facebook": "https://www.facebook.com/pages/Backyard-Ale-House/47270051648",
         "Twitter": "https://twitter.com/BackyardAleHous",
         "Type": "Pub",
         "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.846924,
+          41.916325
+        ]
+      },
+      "properties": {
+        "Name": "Endless Brewing",
+        "City": "Montrose, PA",
+        "URL": "http://www.endlessbrewing.com/",
+        "Facebook": "https://www.facebook.com/pages/Endless-Brewing/238527039560668",
+        "Type": "Microbrewery",
+        "marker-color": "#ffaa00"
       }
     }
  ]
