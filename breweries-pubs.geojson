@@ -36,8 +36,9 @@
         "Facebook": "https://www.facebook.com/pages/Endless-Brewing/238527039560668",
         "Type": "Microbrewery",
         "marker-color": "#ffaa00"
-        },
-        {
+        }
+      },
+      {
         "type": "Feature",
         "geometry": {
         "type": "Point",
