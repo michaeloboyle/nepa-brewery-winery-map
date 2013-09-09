@@ -36,6 +36,214 @@
         "Facebook": "https://www.facebook.com/pages/Endless-Brewing/238527039560668",
         "Type": "Microbrewery",
         "marker-color": "#ffaa00"
+        },
+        {
+        "type": "Feature",
+        "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.694174,
+          40.005921
+        ]
+      },
+      "properties": {
+        "Name": "Victory Brewing Company",
+        "City": "Downingtown",
+        "URL": "http://www.victorybeer.com",
+        "Facebook": "https://www.facebook.com/victorybeer",
+        "Twitter": "https://twitter.com/VictoryBeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.225856,
+          40.673093
+        ]
+      },
+      "properties": {
+        "Name": "Weyerbacher",
+        "City": "Easton",
+        "URL": "http://weyerbacher.com",
+        "Facebook": "https://www.facebook.com/WeyerbacherBrewing",
+        "Twitter": "https://twitter.com/weyerbacher",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.382125,
+          40.622275
+        ]
+      },
+      "properties": {
+        "Name": "Bethlehem Brew Works",
+        "City": "Bethlehem",
+        "URL": "http://www.thebrewworks.com/bethlehem-brew-works/",
+        "Facebook": "https://www.facebook.com/Bethlehem.Brew.Works",
+        "Twitter": "https://twitter.com/thebrewworks",
+        "Type": "Pub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.474090,
+          40.601448
+        ]
+      },
+      "properties": {
+        "Name": "Allentown Brew Works",
+        "City": "Allentown",
+        "URL": "http://www.thebrewworks.com/allentown-brewworks/",
+        "Facebook": "https://www.facebook.com/Allentown.Brew.Works",
+        "Twitter": "https://twitter.com/thebrewworks",
+        "Type": "Pub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.628446,
+          40.575804
+        ]
+      },
+      "properties": {
+        "Name": "Samuel Adams Pennsylvania Brewery",
+        "City": "Breinigsville",
+        "URL": "http://www.samueladams.com",
+        "Facebook": "https://www.facebook.com/SamuelAdams",
+        "Twitter": "https://twitter.com/SamuelAdamsBeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.330440,
+          41.053653
+        ]
+      },
+      "properties": {
+        "Name": "Barley Creek Brewing Company",
+        "City": "Tannersville",
+        "URL": "http://www.barleycreek.com/",
+        "Facebook": "http://www.facebook.com/pages/Tannersville-PA/Barley-Creek-Brewing-Company/",
+        "Twitter": "https://twitter.com/BarleyCreekBrew",
+        "Type": "Brewery/Pub",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.668637,
+          40.265218
+        ]
+      },
+      "properties": {
+        "Name": "Sly Fox Brewing Company",
+        "City": "Pottstown",
+        "URL": "http://www.slyfoxbeer.com/",
+        "Facebook": "http://www.facebook.com/pages/SLY-FOX-BEER/56565676428",
+        "Twitter": "http://www.twitter.com/slyfoxbeer",
+        "Type": "Brewery/Pub",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.954359,
+          40.365942
+        ]
+      },
+      "properties": {
+        "Name": "Triumph Brewing Company",
+        "City": "New Hope",
+        "URL": "http://www.triumphbrewing.com/new-hope/",
+        "Facebook": "http://www.facebook.com/TriumphNewHope",
+        "Twitter": "http://twitter.com/TriumphNewHope",
+        "Type": "Pub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.197835,
+          40.682929
+        ]
+      },
+      "properties": {
+        "Name": "D.G. Yuengling & Son Inc.",
+        "City": "Pottsville",
+        "URL": "http://www.yuengling.com/",
+        "Facebook": "https://www.facebook.com/Yuengling",
+        "Twitter": "http://twitter.com/Yuengling_Beer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.320814,
+          41.067906
+        ]
+      },
+      "properties": {
+        "Name": "Pocono Brewing Company",
+        "City": "Swiftwater",
+        "URL": "http://www.poconobrewingcompany.com/",
+        "Facebook": "https://www.facebook.com/pages/Pocono-Brewing-Company/48769310765",
+        "Twitter": "https://twitter.com/PoconoBrewingCo",
+        "Type": "Pub",
+        "marker-color": "#00f"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.279522,
+          40.220289
+        ]
+      },
+      "properties": {
+        "Name": "Prism Brewing Company",
+        "City": "North Wales",
+        "URL": "http://prismbeer.com/",
+        "Facebook": "https://www.facebook.com/prismbeer",
+        "Twitter": "https://twitter.com/prismbeer",
+        "Type": "Brewery",
+        "marker-color": "#f00"
       }
     }
  ]
