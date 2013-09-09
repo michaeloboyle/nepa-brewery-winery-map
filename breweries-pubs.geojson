@@ -247,5 +247,119 @@
         "marker-color": "#f00"
       }
     }
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.501503,
+          41.579249
+        ]
+      },
+      "properties": {
+        "Name": "3 Guys & A Beer'd Brewing Company",
+        "City": "Carbondale",
+        "URL": "http://3guysandabeerd.com/",
+        "Facebook": "https://www.facebook.com/threeguysandabeerd",
+        "Twitter": "https://twitter.com/3GuysandaBeerd",
+        "Type": "Microbrewery",
+        "marker-color": "#ffaa00"
+      }
+    }
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.803268,
+          41.305698
+        ]
+      },
+      "properties": {
+        "Name": "Susquehanna Brewing Co.",
+        "City": "Pittston",
+        "URL": "http://www.sbcbeer.com/",
+        "Facebook": "https://www.facebook.com/sbcbeer",
+        "Twitter": "https://twitter.com/sbcbeer",
+        "Type": "Microbrewery",
+        "marker-color": "#ffaa00"
+      }
+    }
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.868238,
+          41.225764
+        ]
+      },
+      "properties": {
+        "Name": "Breaker Brewing Company",
+        "City": "Wilkes-Barre",
+        "URL": "http://www.breakerbrewingcompany.com/",
+        "Facebook": "https://www.facebook.com/breakerbrewing",
+        "Twitter": "https://twitter.com/breakerbrew",
+        "Type": "Microbrewery",
+        "marker-color": "#ffaa00"
+      }
+    }
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.858248,
+          41.255743
+        ]
+      },
+      "properties": {
+        "Name": "Lion Brewery",
+        "City": "Wilkes-Barre",
+        "URL": "http://lionbrewery.com/",
+        "Facebook": "https://www.facebook.com/lionshead.pilsner",
+        "Twitter": "https://twitter.com/LionsheadPils",
+        "Type": "Brewery",
+        "marker-color": "#f00"
+      }
+    }
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.072783,
+          40.238588
+        ]
+      },
+      "properties": {
+        "Name": "Stoudts Brewing Company",
+        "City": "Adamstown",
+        "URL": "http://www.stoudtsbeer.com/brewery.html",
+        "Facebook": "https://www.facebook.com/StoudtsBrewingCompany",
+        "Twitter": "https://twitter.com/StoudtsBrewery",
+        "Type": "Microbrewery",
+        "marker-color": "#ffaa00"
+      }
+    }
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.298377,
+          40.044035
+        ]
+      },
+      "properties": {
+        "Name": "Lancaster Brewing Company",
+        "City": "Lancaster",
+        "URL": "http://www.lancasterbrewing.com/",
+        "Facebook": "https://www.facebook.com/pages/Lancaster-Brewing-Company/88334416519",
+        "Twitter": "https://twitter.com/lancasterbrew",
+        "Type": "Microbrewery",
+        "marker-color": "#ffaa00"
+      }
+    }
  ]
 }
