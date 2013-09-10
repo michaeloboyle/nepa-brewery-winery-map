@@ -360,6 +360,42 @@
         "Type": "Microbrewery",
         "marker-color": "#ffaa00"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9977486,
+          41.568932
+        ]
+      },
+      "properties": {
+        "Name": "Nimble Hill Brewing Company",
+        "City": "Mehoopany",
+        "URL": "http://nimblehillbrewingcompany.com/",
+        "Facebook": "https://www.facebook.com/NimbleHillBrewingCompany",
+        "Type": "Microbrewery",
+        "marker-color": "#ffaa00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6175207,
+          40.9622194
+        ]
+      },
+      "properties": {
+        "Name": "Old Forge Brewing Company",
+        "City": "Danville",
+        "URL": "http://www.oldforgebrewingcompany.com/",
+        "Facebook": "https://www.facebook.com/OldForgeBrewingCompany",
+        "Type": "Microbrewery",
+        "marker-color": "#ffaa00"
+      }
     }
  ]
 }
