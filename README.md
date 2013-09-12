@@ -21,6 +21,6 @@ Below are maps of breweries, pubs and wineries from the eastern half of Pennsylv
 
 Project by Colin Devroe, [@cdevroe](http://twitter.com/cdevroe)
 
-Contributors: Jeff Johns, [@phpfunk](http://twitter.com/phpfunk), Kyle Ruane, [@kyleruane](http://twitter.com/kyleruane)
+Contributors: Jeff Johns, [@phpfunk](http://twitter.com/phpfunk), Kyle Ruane, [@kyleruane](http://twitter.com/kyleruane), Michael O'Boyle, [@michaeloboyle](http://twitter.com/michaeloboyle)
 
 Inspired by [Dave Shea's Canadian Craft Brew maps](https://github.com/mezzoblue/canadian-craft-breweries).
