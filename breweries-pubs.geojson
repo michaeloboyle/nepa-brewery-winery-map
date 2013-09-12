@@ -1,251 +1,401 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.6614976,
-          41.4086016
-        ]
-      },
-      "properties": {
-        "Name": "Backyard Ale House",
-        "City": "Scranton, PA",
-        "URL": "http://backyardalehouse.com/",
-        "Facebook": "https://www.facebook.com/pages/Backyard-Ale-House/47270051648",
-        "Twitter": "https://twitter.com/BackyardAleHous",
-        "Type": "Pub",
-        "marker-color": "#00f"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.846924,
-          41.916325
-        ]
-      },
-      "properties": {
-        "Name": "Endless Brewing",
-        "City": "Montrose, PA",
-        "URL": "http://www.endlessbrewing.com/",
-        "Facebook": "https://www.facebook.com/pages/Endless-Brewing/238527039560668",
-        "Type": "Microbrewery",
-        "marker-color": "#ffaa00"
-        }
+   "type":"FeatureCollection",
+   "features":[
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.6614976,
+               41.4086016
+            ]
+         },
+         "properties":{
+            "Name":"Backyard Ale House",
+            "City":"Scranton, PA",
+            "URL":"http://backyardalehouse.com/",
+            "Facebook":"https://www.facebook.com/pages/Backyard-Ale-House/47270051648",
+            "Twitter":"https://twitter.com/BackyardAleHous",
+            "Type":"Pub",
+            "marker-color":"#00f"
+         }
       },
       {
-        "type": "Feature",
-        "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.694174,
-          40.005921
-        ]
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.846924,
+               41.916325
+            ]
+         },
+         "properties":{
+            "Name":"Endless Brewing",
+            "City":"Montrose, PA",
+            "URL":"http://www.endlessbrewing.com/",
+            "Facebook":"https://www.facebook.com/pages/Endless-Brewing/238527039560668",
+            "Type":"Microbrewery",
+            "marker-color":"#ffaa00"
+         }
       },
-      "properties": {
-        "Name": "Victory Brewing Company",
-        "City": "Downingtown",
-        "URL": "http://www.victorybeer.com",
-        "Facebook": "https://www.facebook.com/victorybeer",
-        "Twitter": "https://twitter.com/VictoryBeer",
-        "Type": "Brewery",
-        "marker-color": "#f00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.225856,
-          40.673093
-        ]
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.694174,
+               40.005921
+            ]
+         },
+         "properties":{
+            "Name":"Victory Brewing Company",
+            "City":"Downingtown",
+            "URL":"http://www.victorybeer.com",
+            "Facebook":"https://www.facebook.com/victorybeer",
+            "Twitter":"https://twitter.com/VictoryBeer",
+            "Type":"Brewery",
+            "marker-color":"#f00"
+         }
       },
-      "properties": {
-        "Name": "Weyerbacher",
-        "City": "Easton",
-        "URL": "http://weyerbacher.com",
-        "Facebook": "https://www.facebook.com/WeyerbacherBrewing",
-        "Twitter": "https://twitter.com/weyerbacher",
-        "Type": "Brewery",
-        "marker-color": "#f00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.382125,
-          40.622275
-        ]
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.225856,
+               40.673093
+            ]
+         },
+         "properties":{
+            "Name":"Weyerbacher",
+            "City":"Easton",
+            "URL":"http://weyerbacher.com",
+            "Facebook":"https://www.facebook.com/WeyerbacherBrewing",
+            "Twitter":"https://twitter.com/weyerbacher",
+            "Type":"Brewery",
+            "marker-color":"#f00"
+         }
       },
-      "properties": {
-        "Name": "Bethlehem Brew Works",
-        "City": "Bethlehem",
-        "URL": "http://www.thebrewworks.com/bethlehem-brew-works/",
-        "Facebook": "https://www.facebook.com/Bethlehem.Brew.Works",
-        "Twitter": "https://twitter.com/thebrewworks",
-        "Type": "Pub",
-        "marker-color": "#00f"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.474090,
-          40.601448
-        ]
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.382125,
+               40.622275
+            ]
+         },
+         "properties":{
+            "Name":"Bethlehem Brew Works",
+            "City":"Bethlehem",
+            "URL":"http://www.thebrewworks.com/bethlehem-brew-works/",
+            "Facebook":"https://www.facebook.com/Bethlehem.Brew.Works",
+            "Twitter":"https://twitter.com/thebrewworks",
+            "Type":"Pub",
+            "marker-color":"#00f"
+         }
       },
-      "properties": {
-        "Name": "Allentown Brew Works",
-        "City": "Allentown",
-        "URL": "http://www.thebrewworks.com/allentown-brewworks/",
-        "Facebook": "https://www.facebook.com/Allentown.Brew.Works",
-        "Twitter": "https://twitter.com/thebrewworks",
-        "Type": "Pub",
-        "marker-color": "#00f"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.628446,
-          40.575804
-        ]
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.474090,
+               40.601448
+            ]
+         },
+         "properties":{
+            "Name":"Allentown Brew Works",
+            "City":"Allentown",
+            "URL":"http://www.thebrewworks.com/allentown-brewworks/",
+            "Facebook":"https://www.facebook.com/Allentown.Brew.Works",
+            "Twitter":"https://twitter.com/thebrewworks",
+            "Type":"Pub",
+            "marker-color":"#00f"
+         }
       },
-      "properties": {
-        "Name": "Samuel Adams Pennsylvania Brewery",
-        "City": "Breinigsville",
-        "URL": "http://www.samueladams.com",
-        "Facebook": "https://www.facebook.com/SamuelAdams",
-        "Twitter": "https://twitter.com/SamuelAdamsBeer",
-        "Type": "Brewery",
-        "marker-color": "#f00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.330440,
-          41.053653
-        ]
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.628446,
+               40.575804
+            ]
+         },
+         "properties":{
+            "Name":"Samuel Adams Pennsylvania Brewery",
+            "City":"Breinigsville",
+            "URL":"http://www.samueladams.com",
+            "Facebook":"https://www.facebook.com/SamuelAdams",
+            "Twitter":"https://twitter.com/SamuelAdamsBeer",
+            "Type":"Brewery",
+            "marker-color":"#f00"
+         }
       },
-      "properties": {
-        "Name": "Barley Creek Brewing Company",
-        "City": "Tannersville",
-        "URL": "http://www.barleycreek.com/",
-        "Facebook": "http://www.facebook.com/pages/Tannersville-PA/Barley-Creek-Brewing-Company/",
-        "Twitter": "https://twitter.com/BarleyCreekBrew",
-        "Type": "Brewery/Pub",
-        "marker-color": "#f00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.668637,
-          40.265218
-        ]
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.330440,
+               41.053653
+            ]
+         },
+         "properties":{
+            "Name":"Barley Creek Brewing Company",
+            "City":"Tannersville",
+            "URL":"http://www.barleycreek.com/",
+            "Facebook":"http://www.facebook.com/pages/Tannersville-PA/Barley-Creek-Brewing-Company/",
+            "Twitter":"https://twitter.com/BarleyCreekBrew",
+            "Type":"Brewery/Pub",
+            "marker-color":"#f00"
+         }
       },
-      "properties": {
-        "Name": "Sly Fox Brewing Company",
-        "City": "Pottstown",
-        "URL": "http://www.slyfoxbeer.com/",
-        "Facebook": "http://www.facebook.com/pages/SLY-FOX-BEER/56565676428",
-        "Twitter": "http://www.twitter.com/slyfoxbeer",
-        "Type": "Brewery/Pub",
-        "marker-color": "#f00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.954359,
-          40.365942
-        ]
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.668637,
+               40.265218
+            ]
+         },
+         "properties":{
+            "Name":"Sly Fox Brewing Company",
+            "City":"Pottstown",
+            "URL":"http://www.slyfoxbeer.com/",
+            "Facebook":"http://www.facebook.com/pages/SLY-FOX-BEER/56565676428",
+            "Twitter":"http://www.twitter.com/slyfoxbeer",
+            "Type":"Brewery/Pub",
+            "marker-color":"#f00"
+         }
       },
-      "properties": {
-        "Name": "Triumph Brewing Company",
-        "City": "New Hope",
-        "URL": "http://www.triumphbrewing.com/new-hope/",
-        "Facebook": "http://www.facebook.com/TriumphNewHope",
-        "Twitter": "http://twitter.com/TriumphNewHope",
-        "Type": "Pub",
-        "marker-color": "#00f"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.197835,
-          40.682929
-        ]
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -74.954359,
+               40.365942
+            ]
+         },
+         "properties":{
+            "Name":"Triumph Brewing Company",
+            "City":"New Hope",
+            "URL":"http://www.triumphbrewing.com/new-hope/",
+            "Facebook":"http://www.facebook.com/TriumphNewHope",
+            "Twitter":"http://twitter.com/TriumphNewHope",
+            "Type":"Pub",
+            "marker-color":"#00f"
+         }
       },
-      "properties": {
-        "Name": "D.G. Yuengling & Son Inc.",
-        "City": "Pottsville",
-        "URL": "http://www.yuengling.com/",
-        "Facebook": "https://www.facebook.com/Yuengling",
-        "Twitter": "http://twitter.com/Yuengling_Beer",
-        "Type": "Brewery",
-        "marker-color": "#f00"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.320814,
-          41.067906
-        ]
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -76.197835,
+               40.682929
+            ]
+         },
+         "properties":{
+            "Name":"D.G. Yuengling & Son Inc.",
+            "City":"Pottsville",
+            "URL":"http://www.yuengling.com/",
+            "Facebook":"https://www.facebook.com/Yuengling",
+            "Twitter":"http://twitter.com/Yuengling_Beer",
+            "Type":"Brewery",
+            "marker-color":"#f00"
+         }
       },
-      "properties": {
-        "Name": "Pocono Brewing Company",
-        "City": "Swiftwater",
-        "URL": "http://www.poconobrewingcompany.com/",
-        "Facebook": "https://www.facebook.com/pages/Pocono-Brewing-Company/48769310765",
-        "Twitter": "https://twitter.com/PoconoBrewingCo",
-        "Type": "Pub",
-        "marker-color": "#00f"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.279522,
-          40.220289
-        ]
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.320814,
+               41.067906
+            ]
+         },
+         "properties":{
+            "Name":"Pocono Brewing Company",
+            "City":"Swiftwater",
+            "URL":"http://www.poconobrewingcompany.com/",
+            "Facebook":"https://www.facebook.com/pages/Pocono-Brewing-Company/48769310765",
+            "Twitter":"https://twitter.com/PoconoBrewingCo",
+            "Type":"Pub",
+            "marker-color":"#00f"
+         }
       },
-      "properties": {
-        "Name": "Prism Brewing Company",
-        "City": "North Wales",
-        "URL": "http://prismbeer.com/",
-        "Facebook": "https://www.facebook.com/prismbeer",
-        "Twitter": "https://twitter.com/prismbeer",
-        "Type": "Brewery",
-        "marker-color": "#f00"
+      {
+         "type":"Feature",
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.279522,
+               40.220289
+            ]
+         },
+         "properties":{
+            "Name":"Prism Brewing Company",
+            "City":"North Wales",
+            "URL":"http://prismbeer.com/",
+            "Facebook":"https://www.facebook.com/prismbeer",
+            "Twitter":"https://twitter.com/prismbeer",
+            "Type":"Brewery",
+            "marker-color":"#f00"
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name":"Poor Richards Pub",
+            "Description":"<!DOCTYPE html><html><head><\/head><body><script type=\"text\/javascript\">window.location.href=\"http:\/\/maps.google.com\/maps\/place?latlng=41400763,-75673635,3043634230719572271&hl=en&gl=us&ui=earth&view=teaser\";<\/script><\/body><\/html>"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.673635,
+               41.400763,
+               0.0
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name":"Backyard Ale House",
+            "Description":"<!DOCTYPE html><html><head><\/head><body><script type=\"text\/javascript\">window.location.href=\"http:\/\/maps.google.com\/maps\/place?latlng=41408694,-75661442,16274967654398167261&hl=en&gl=us&ui=earth&view=teaser\";<\/script><\/body><\/html>"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.661442,
+               41.408694,
+               0.0
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name":"Kildare's Irish Pub",
+            "Description":"<!DOCTYPE html><html><head><\/head><body><script type=\"text\/javascript\">window.location.href=\"http:\/\/maps.google.com\/maps\/place?latlng=41405946,-75661915,2385959080759753282&hl=en&gl=us&ui=earth&view=teaser\";<\/script><\/body><\/html>"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.661915,
+               41.405946,
+               0.0
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name":"Andy Gavin's Eatery & Pub",
+            "Description":"<!DOCTYPE html><html><head><\/head><body><script type=\"text\/javascript\">window.location.href=\"http:\/\/maps.google.com\/maps\/place?latlng=41422767,-75647148,13433310857880922301&hl=en&gl=us&ui=earth&view=teaser\";<\/script><\/body><\/html>"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.647148,
+               41.422767,
+               0.0
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name":"Cooper's Seafood House",
+            "Description":"<!DOCTYPE html><html><head><\/head><body><script type=\"text\/javascript\">window.location.href=\"http:\/\/maps.google.com\/maps\/place?latlng=41414397,-75656734,17433475464840617812&hl=en&gl=us&ui=earth&view=teaser\";<\/script><\/body><\/html>"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.656734,
+               41.414397,
+               0.0
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name":"Dublin's Pub & Grill",
+            "Description":"<!DOCTYPE html><html><head><\/head><body><script type=\"text\/javascript\">window.location.href=\"http:\/\/maps.google.com\/maps\/place?latlng=41406625,-75685225,1608793163751032362&hl=en&gl=us&ui=earth&view=teaser\";<\/script><\/body><\/html>"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.685225,
+               41.406625,
+               0.0
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name":"Glass Onion",
+            "Description":"<!DOCTYPE html><html><head><\/head><body><script type=\"text\/javascript\">window.location.href=\"http:\/\/maps.google.com\/maps\/place?latlng=41411296,-75640984,13443156950711785145&hl=en&gl=us&ui=earth&view=teaser\";<\/script><\/body><\/html>"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.640984,
+               41.411296,
+               0.0
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name":"Bar At the Patch Inc",
+            "Description":"<!DOCTYPE html><html><head><\/head><body><script type=\"text\/javascript\">window.location.href=\"http:\/\/maps.google.com\/maps\/place?latlng=41419097,-75644992,5045832096192429903&hl=en&gl=us&ui=earth&view=teaser\";<\/script><\/body><\/html>"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.644992,
+               41.419097,
+               0.0
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name":"Jack's Draft House",
+            "Description":"<!DOCTYPE html><html><head><\/head><body><script type=\"text\/javascript\">window.location.href=\"http:\/\/maps.google.com\/maps\/place?latlng=41407896,-75644239,3712608859136524223&hl=en&gl=us&ui=earth&view=teaser\";<\/script><\/body><\/html>"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.644239,
+               41.407896,
+               0.0
+            ]
+         }
+      },
+      {
+         "type":"Feature",
+         "properties":{
+            "Name":"Bog",
+            "Description":"<!DOCTYPE html><html><head><\/head><body><script type=\"text\/javascript\">window.location.href=\"http:\/\/maps.google.com\/maps\/place?latlng=41409254,-75660094,16988600085187753555&hl=en&gl=us&ui=earth&view=teaser\";<\/script><\/body><\/html>"
+         },
+         "geometry":{
+            "type":"Point",
+            "coordinates":[
+               -75.660094,
+               41.409254,
+               0.0
+            ]
+         }
       }
-    }
- ]
+   ]
 }
